@@ -1,35 +1,129 @@
-## Ola! eu sou o Bruno Piovan
+<div align="center">
 
-- 💻 Eu sou estudante de Engenharia de Software
-- 🔭 Atualmente sou Desenvolvedor de Software Junior
-- 🌱 Estou me aprofundando em Spring-boot
+# 👋 Olá, eu sou o Bruno Piovan
 
+### 🚀 Desenvolvedor Full Stack | Java • Spring Boot • Angular
 
-[![Bruno's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brunohpiovan\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=brunohpiovan\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;Apaixonado+por+Back-end+e+Arquitetura;Sempre+aprendendo+novas+tecnologias" />
 
-
-
-## Most Used Technologies:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Bruno-Spring" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="Bruno-Spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img align="center" alt="Bruno-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+---
 
-<div>
-  <a href="https://www.instagram.com/bruno.piovan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bpiovan90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-piovan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+## 💫 Sobre mim
+
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor de Software Junior  
+☕ Focado em Back-end com Java e Spring Boot  
+🌱 Aprimorando conhecimentos em arquitetura, APIs REST e microsserviços  
+🚀 Sempre buscando evoluir como desenvolvedor e criar projetos impactantes  
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<a href="https://github.com/brunohpiovan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunohpiovan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/brunohpiovan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohpiovan&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
+
 </div>
-  
 
+---
 
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,js,html,css,mysql,git,github,idea,vscode,linux" />
+
+</div>
+
+---
+
+## 🔥 Tecnologias que mais utilizo
+
+<div align="center">
+
+| Back-end | Front-end | Banco de Dados | Ferramentas |
+|----------|-----------|----------------|-------------|
+| Java | Angular | MySQL | Git |
+| Spring Boot | TypeScript | PostgreSQL | GitHub |
+| APIs REST | HTML/CSS | JPA/Hibernate | Linux |
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 💼 CRM com WhatsApp
+Sistema CRM desenvolvido com:
+- Spring Boot
+- Angular
+- Integração com WhatsApp
+- Gestão de clientes e funil de vendas
+
+---
+
+### 💰 Sistema Financeiro
+Controle de:
+- Contas a pagar
+- Parcelamentos
+- Gestão financeira
+- Relatórios
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunohpiovan&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=brunohpiovan&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 🌐 Vamos nos conectar
+
+<div align="center">
+
+<a href="mailto:bpiovan90@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bruno-piovan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/bruno.piovan">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Transformando ideias em software.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+
+</div>
