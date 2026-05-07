@@ -1,10 +1,14 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Bruno Piovan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:7c3aed&height=200&section=header&text=Bruno%20Piovan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Angular&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-### 🚀 Desenvolvedor Full Stack | Java • Spring Boot • Angular
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;Apaixonado+por+Back-end+e+Arquitetura;Sempre+aprendendo+novas+tecnologias" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;Apaixonado+por+Back-end+e+Arquitetura;Sempre+aprendendo+novas+tecnologias" />
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-piovan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpiovan90@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno.piovan)
 
 </div>
 
@@ -12,67 +16,59 @@
 
 ## 💫 Sobre mim
 
-🎓 Estudante de Engenharia de Software  
-💻 Desenvolvedor de Software Junior  
-☕ Focado em Back-end com Java e Spring Boot  
-🌱 Aprimorando conhecimentos em arquitetura, APIs REST e microsserviços  
-🚀 Sempre buscando evoluir como desenvolvedor e criar projetos impactantes  
+```yaml
+nome:       Bruno Piovan
+formação:   Engenharia de Software
+foco:       Back-end • Arquitetura • APIs REST • Microsserviços
+stack:      Java · Spring Boot · Angular · TypeScript
+status:     Sempre aprendendo e construindo projetos impactantes 🚀
+```
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🛠️ Stack Tecnológica
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunohpiovan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohpiovan&layout=compact&langs_count=7&theme=tokyonight"/>
+### ☕ Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### 🌐 Front-end
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,js,html,css,mysql,git,github,idea,vscode,linux" />
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| 💼 **CRM com WhatsApp** | Sistema CRM completo com integração WhatsApp, gestão de clientes e funil de vendas | `Spring Boot` `Angular` `WhatsApp API` |
+| 💰 **Sistema Financeiro** | Controle de contas a pagar, parcelamentos e relatórios financeiros | `Java` `Spring Boot` `MySQL` |
 
 </div>
-
----
-
-## 🔥 Tecnologias que mais utilizo
-
-<div align="center">
-
-| Back-end | Front-end | Banco de Dados | Ferramentas |
-|----------|-----------|----------------|-------------|
-| Java | Angular | MySQL | Git |
-| Spring Boot | TypeScript | PostgreSQL | GitHub |
-| APIs REST | HTML/CSS | JPA/Hibernate | Linux |
-
-</div>
-
----
-
-## 🚀 Projetos em destaque
-
-### 💼 CRM com WhatsApp
-Sistema CRM desenvolvido com:
-- Spring Boot
-- Angular
-- Integração com WhatsApp
-- Gestão de clientes e funil de vendas
-
----
-
-### 💰 Sistema Financeiro
-Controle de:
-- Contas a pagar
-- Parcelamentos
-- Gestão financeira
-- Relatórios
 
 ---
 
@@ -80,13 +76,13 @@ Controle de:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunohpiovan&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunohpiovan&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🏆 Conquistas GitHub
+## 🏆 Troféus GitHub
 
 <div align="center">
 
@@ -96,21 +92,11 @@ Controle de:
 
 ---
 
-## 🌐 Vamos nos conectar
+## 📊 Linguagens mais usadas
 
 <div align="center">
 
-<a href="mailto:bpiovan90@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bruno-piovan">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/bruno.piovan">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohpiovan&layout=donut&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -118,8 +104,12 @@ Controle de:
 
 <div align="center">
 
-### ⚡ “Transformando ideias em software.”
+### ⚡ *"Transformando ideias em software."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+<br/>
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=brunohpiovan.brunohpiovan&color=0ea5e9)](https://github.com/brunohpiovan)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0ea5e9&height=120&section=footer"/>
 
 </div>
