@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:7c3aed&height=220&section=header&text=Bruno%20Piovan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Angular&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=Desenvolvedor+Full+Stack+em+Cornélio+Procópio%2C+PR;SaaS+multi-tenant+e+e-commerce+em+produção;Java+%2B+Spring+Boot+no+back-end;Angular+e+React+no+front-end;Estudante+de+Engenharia+de+Software+na+UTFPR;Aberto+a+propostas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=Desenvolvedor+Full+Stack;SaaS+multi-tenant+e+e-commerce+em+produção;Java+%2B+Spring+Boot+no+back-end;Angular+e+React+no+front-end;Estudante+de+Engenharia+de+Software+na+UTFPR;Aberto+a+propostas" />
 
 <br/>
 
